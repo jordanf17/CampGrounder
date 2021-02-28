@@ -4,7 +4,7 @@
 <h4>Authentication</h4>
 <ul>
 <li>Users can sign up or login using username and password.</li>
-<li>User can not submit campgrounds if they are not logged in.</li>
+<li>User can not submit campgrounds or edit and delete existing campgrounds if they are not logged in.</li>
   <li>Authentication for Client-side aswell as for Server-side </li>
   </ul>
 <h4>Authorization</h4>
