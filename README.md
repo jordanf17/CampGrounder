@@ -21,5 +21,5 @@
 <li>Responsive Web design.</li>
   </ul>
   <h4>ScreenShots</h4>
-  <img src="images/IndexPage.jpg">
-  <img src="images/DetailsPage.jpg">
+  <img src="images/IndexPage.png">
+  <img src="images/DetailsPage.png">
