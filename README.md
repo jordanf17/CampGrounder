@@ -15,7 +15,7 @@
   <h4>Basic Functionality</h4>
   <ul>
 <li>  Add Name, Image and Description to the campground.</li>
-<li>Create, Update, Delete the Campground.</li>
+<li>Create, Update, Delete, Edit the Campground.</li>
 <li>Add comments,rating to campgrounds.</li>
 <li>Flash Important messages to warn or greet the users.</li>
 <li>Responsive Web design.</li>
